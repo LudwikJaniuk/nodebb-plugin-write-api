@@ -1,5 +1,5 @@
 {
-  "name": "nodebb-plugin-write-api",
+  "name": "nodebb-plugin-write-api-brfenergi",
   "version": "5.2.0",
   "description": "Write-enabled API for NodeBB",
   "main": "index.js",
